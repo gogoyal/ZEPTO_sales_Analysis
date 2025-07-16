@@ -59,6 +59,6 @@ This project involves detailed data analysis on Zepto's operational and customer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gogoyal/ZEPTO_sales_Analysis
+   git clone https://github.com/gogoyal/ZEPTO_sales_Analysis.git
 
 
