@@ -4,6 +4,26 @@ This project involves detailed data analysis on Zepto's operational and customer
 
 ---
 
+## 📚 About the Dataset
+
+This project explores the [Zepto Inventory Dataset on Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv), which contains information on over **3,000+ SKUs** across categories like **Fruits & Vegetables, Dairy, Packaged Foods, Beverages**, and more. Zepto, a fast-growing 10-minute grocery delivery platform, provides a rich dataset for inventory and retail pricing analysis.
+
+**The dataset supports various analytical objectives such as:**
+
+- 📉 **Discount trends by category**  
+  Understand how discounts are distributed across different product categories and price points.
+
+- 🛒 **Inventory availability and stock-outs**  
+  Identify frequently out-of-stock products and analyze stock trends.
+
+- 💸 **Price distribution and pricing strategy**  
+  Analyze the spread of pricing across brands and SKUs to infer the pricing model.
+
+- 🧾 **Product naming patterns**  
+  Suitable for NLP tasks like word cloud generation and naming trend analysis.
+
+---
+
 ## 🚀 Project Highlights
 
 - ✅ Cleaned and structured raw Zepto data.
@@ -24,7 +44,6 @@ This project involves detailed data analysis on Zepto's operational and customer
 - **Database**: PostgreSQL  
 - **Tools Used**: pgAdmin / DBeaver / SQL Shell  
 - **Languages**: SQL  
-
 
 ---
 
